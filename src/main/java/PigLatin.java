@@ -28,8 +28,7 @@ public class PigLatin {
 	    }
     }
 public int findFirstVowel(String sWord) {
-	ArrayList <String> vowels;
-	vowels = new ArrayList <String>();
+	ArrayList <String> vowels = new Arraylist <String>();
 	vowels.add("a");
 	vowels.add("e");
 	vowels.add("i");
